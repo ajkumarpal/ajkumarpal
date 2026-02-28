@@ -6,7 +6,6 @@
 
 # ⚡ Senior Frontend Engineer | React.js Architect
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Enterprise+FinTech+Platforms;React.js+%7C+Next.js+%7C+TypeScript+Expert;Micro-Frontend+Architecture+Specialist;Performance+Optimization+Ninja;5%2B+Years+Frontend+Experience" /> -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2600&pause=900&color=0860AD&center=true&vCenter=true&width=900&lines=Building+Enterprise+FinTech+Platforms;React.js+%7C+Next.js+%7C+TypeScript+Expert;Micro-Frontend+Architecture+Specialist;Performance+Optimization+Ninja;5%2B+Years+Frontend+Experience" />
 
 <p>
@@ -63,52 +62,6 @@ specialties:
 ### ⚙️ DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,webpack,vite,linux" />
-
-</div>
-
----
-
-# 📊 GitHub Command Center
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ajkumarpal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajkumarpal&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Streak Engine
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ajitpal075&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-# 📈 Contribution Matrix
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitpal075&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
-# 🏆 Achievement Wall
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ajkumarpal&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/ajitpal075/ajitpal075/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
