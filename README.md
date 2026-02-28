@@ -141,6 +141,5 @@ specialties:
 
 ⭐ From **Ajit Pal** — Engineering high-performance web experiences
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=120&section=footer" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:021a33,100:0860ad&height=140&section=footer&reversal=true" />
 </div>
