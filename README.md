@@ -6,7 +6,8 @@
 
 # ⚡ Senior Frontend Engineer | React.js Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Enterprise+FinTech+Platforms;React.js+%7C+Next.js+%7C+TypeScript+Expert;Micro-Frontend+Architecture+Specialist;Performance+Optimization+Ninja;5%2B+Years+Frontend+Experience" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Enterprise+FinTech+Platforms;React.js+%7C+Next.js+%7C+TypeScript+Expert;Micro-Frontend+Architecture+Specialist;Performance+Optimization+Ninja;5%2B+Years+Frontend+Experience" /> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2600&pause=900&color=0860AD&center=true&vCenter=true&width=900&lines=Building+Enterprise+FinTech+Platforms;React.js+%7C+Next.js+%7C+TypeScript+Expert;Micro-Frontend+Architecture+Specialist;Performance+Optimization+Ninja;5%2B+Years+Frontend+Experience" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ajitpal075&label=Profile%20Views&color=0e75b6&style=flat" />
