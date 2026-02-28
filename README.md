@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=190&section=header&text=Ajit%20Pal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:042a52,100:0860ad&height=190&section=header&text=Ajit%20Pal&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 # ⚡ Senior Frontend Engineer | React.js Architect
 
